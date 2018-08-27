@@ -33,9 +33,9 @@ vuelo. Sin embargo, el impuesto se reduce al 5% para las horas que excedan las 2
 Calcule el sueldo básico, impuesto de retención y sueldo neto de los empleados de
 acuerdo a la ruta que cumplieron como pilotos (haciendo uso de las rutas que sean
 necesarias).
-- [ ] Ana viaja de Medellín a Ciudad Bogótica.
-- [ ] Diego viaja de Medellín a Mordor y luego a Ciudad Bogótica.
-- [ ] Carlos viaja de Mordor a Ciudad Bogótica.
+- [ x ] Ana viaja de Medellín a Ciudad Bogótica.
+- [ x ] Diego viaja de Medellín a Mordor y luego a Ciudad Bogótica.
+- [ x ] Carlos viaja de Mordor a Ciudad Bogótica.
 
 No lea la información de estos tres usuarios por teclado. Se recomienda leerla desde un
 script: // … ana = new XXXXX(“ana”,puntos); … etc
