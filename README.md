@@ -40,4 +40,4 @@ necesarias).
 No lea la información de estos tres usuarios por teclado. Se recomienda leerla desde un
 script: // … ana = new XXXXX(“ana”,puntos); … etc
 
->> Nota del estudiante: si alguien puede enseñarme hacer un codigo mejor o darme algun consejo, sera ien recibido.
+>> Nota del estudiante: si alguien puede enseñarme hacer un codigo mejor o darme algun consejo, sera bien recibido.
